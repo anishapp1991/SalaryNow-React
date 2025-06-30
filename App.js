@@ -80,16 +80,6 @@ const Stack = createNativeStackNavigator();
 const Drawer = createDrawerNavigator();
 const Tab = createBottomTabNavigator();
 
-// const linking = {
-//   prefixes: ['com.kksv.salarynow://open'],
-//   config: {
-//     screens: {
-//       Home: 'Home', // Maps to URL path
-//       AllDocuments: 'AllDocuments',
-//       Home: 'Home',
-//     },
-//   },
-// };
 
 // Auth Stack for non-authenticated users
 const AuthStack = () => (
@@ -159,8 +149,6 @@ const HomeStack = () => (
     <Stack.Screen name="EstatementWeb" component={EstatementWeb} />
     <Stack.Screen name="Ckyc" component={Ckyc} />
         <Stack.Screen name="DeletedUser" component={DeletedUser} />
-
-
     <Stack.Screen name="NoInternet" component={NoInternet} options={{ headerShown: false }} />
     {/* <Stack.Screen name="Maintainance" component={Maintainance} options={{ headerShown: false }} /> */}
 
@@ -396,24 +384,6 @@ const App = () => {
     }
   };
 
-  // const handleDeepLinking = () => {
-  //   Linking.getInitialURL().then((url) => {
-  //     if (url) {
-  //       console.log('Initial URL:', url);
-  //       Linking.openURL(url); // Process the URL
-  //     }
-  //   });
-
-  //   const handleLink = (event) => {
-  //     console.log('URL Opened:', event.url);
-  //   };
-
-  //   Linking.addEventListener('url', handleLink);
-
-  //   return () => {
-  //     Linking.removeEventListener('url', handleLink);
-  //   };
-  // };
 
   if (loading) {
     // Show a loading indicator while checking version

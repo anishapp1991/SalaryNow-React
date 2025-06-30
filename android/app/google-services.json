@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "19120401926",
+    "firebase_url": "https://salarynow-12d23.firebaseio.com",
+    "project_id": "salarynow-12d23",
+    "storage_bucket": "salarynow-12d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19120401926:android:c44437c8f91bedd1",
+        "android_client_info": {
+          "package_name": "com.app.salarynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19120401926-64h1dmvcmq0ma410qqs1rqbkk9tfkj72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.salarynow",
+            "certificate_hash": "3e5211ccfbde370dac949656d59540b66a836d40"
+          }
+        },
+        {
+          "client_id": "19120401926-ev9omi08nkiv9k1i8j9iqphbdn5p8q12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.salarynow",
+            "certificate_hash": "cd92de387e03ad55b7ffa6a443623e24ae009a0d"
+          }
+        },
+        {
+          "client_id": "19120401926-p9u8nbph79gp7jnaihe006qk1891tk5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.salarynow",
+            "certificate_hash": "2848323c1f5a09ab9bab8b32d0af229f425d1055"
+          }
+        },
+        {
+          "client_id": "19120401926-ro7jaeda62h11qt8qa5odfbosad6an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.salarynow",
+            "certificate_hash": "6e87f2abec12559535c0304f8f019fc42d24f38c"
+          }
+        },
+        {
+          "client_id": "19120401926-tuibem8h9333j6rgckmqvblmmqe8fir2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.salarynow",
+            "certificate_hash": "b3e524187c0a2c3e15f60640b1c957dcc99ae998"
+          }
+        },
+        {
+          "client_id": "19120401926-uc3u9co3vmbsmjsaasiuhbn8cd1vi1l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.salarynow",
+            "certificate_hash": "b8405b79dd64c878a35b8111e5a83ae8d1ecba2f"
+          }
+        },
+        {
+          "client_id": "19120401926-ejcu9eb00suo54v1repqsu600geeugrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCML1b_CJvUslUf5NORXVPtkIbKM0jcLdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19120401926-ejcu9eb00suo54v1repqsu600geeugrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19120401926:android:4f02db0555a421ac441d87",
+        "android_client_info": {
+          "package_name": "com.kksv.salarynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19120401926-ejcu9eb00suo54v1repqsu600geeugrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCML1b_CJvUslUf5NORXVPtkIbKM0jcLdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19120401926-ejcu9eb00suo54v1repqsu600geeugrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
